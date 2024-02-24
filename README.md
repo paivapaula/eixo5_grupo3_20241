@@ -5,7 +5,8 @@ Arquitetura de Dados em Nuvem
 `Tecnologia em Banco de Dados`
 `2024/01`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O presente trabalho tem como objetivo aprimorar e desenvolver os conhecimentos acerca de Arquitetura de Dados em nuvem e algoritimos de Machine Learning, através do desenvolvimento de métodos para uso dos dados no apoio à tomada de decisões gerenciais. 
+O grupo produzirá um modelo de Machine Learning para automatizar recomendações em relação à tendências de preço de ações usando série temporal e indicadores de "Price Action". 
 
 ## Integrantes
  * Ana Paula Rodrigues Paiva Ferreira
